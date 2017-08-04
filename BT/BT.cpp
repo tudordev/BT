@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
 	cout << "Git integration";
+	//comentariu
 	return 0;
 }
 
